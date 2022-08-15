@@ -320,6 +320,10 @@
         }
     }
 
+    .command code::before {
+      content: "$ ";
+    }
+
     .copyCodeButton {
         position: absolute;
         top: calc(var(--card-padding));
