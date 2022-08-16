@@ -217,7 +217,7 @@
     h6 {
         margin-inline-start: calc((var(--card-padding)) * -1);
         padding-inline-start: calc(var(--card-padding) - var(--heading-border-size));
-        border-inline-start: var(--heading-border-size) solid var(--accent-color);
+        border-inline-start: var(--heading-border-size) solid var(--header-marker-color);
     }
 
     figure {

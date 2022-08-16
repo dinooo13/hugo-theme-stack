@@ -18,6 +18,8 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --accent-color-text: #fff;
     --body-text-color: #bababa;
 
+    --header-marker-color: #fff;
+
     --tag-border-radius: 4px;
 
     --section-separation: 40px;
@@ -31,6 +33,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --accent-color-darker: #bdc3c7;
         --accent-color-text: #000;
         --body-text-color: rgba(255, 255, 255, 0.7);
+        --header-marker-color: var(--card-background);
         --scrollbar-thumb: hsl(0, 0%, 40%);
         --scrollbar-track: var(--body-background);
     }
