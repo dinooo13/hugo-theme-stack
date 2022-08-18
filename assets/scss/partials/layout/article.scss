@@ -320,7 +320,7 @@
         }
     }
 
-    .command code::before {
+    .command .line::before {
       content: "$ ";
     }
 
